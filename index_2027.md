@@ -7,7 +7,6 @@ title: Gabrielle Loosli's Resume
 
 <div id="webaddress">
 <a href="gabbieloosli@gmail.com">gabbieloosli@gmail.com</a>
-| <a href="tel:2086805451">208.680.5451</a>
 </div>
 
 ## Education
